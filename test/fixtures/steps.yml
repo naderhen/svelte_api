@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  routine_id: 1
+  exercise_id: 1
+  rep_scheme: 
+  weight_adjustment: MyString
+  start_weight: 1
+
+two:
+  routine_id: 1
+  exercise_id: 1
+  rep_scheme: 
+  weight_adjustment: MyString
+  start_weight: 1
